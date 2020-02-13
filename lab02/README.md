@@ -11,23 +11,23 @@ Default constructor If you do not implement any constructor in your class, Java 
 your behalf. This constructor is known as default constructor. Parameterized constructor Constructor with arguments(or you can say
 parameters) is known as Parameterized constructor. Example:
 
-public class Employee {
+    public class Employee {
 
-   int empId;  
-   String empName;  
+  	 int empId;  
+   	String empName;  
 	    
-   Employee(int id, String name){  
-       this.empId = id;  
+   	Employee(int id, String name){  
+       	this.empId = id;  
        this.empName = name;  
-   }  
-   void info(){
-        System.out.println("Id: "+empId+" Name: "+empName);
-   }  
+   	}  
+   	void info(){
+        	System.out.println("Id: "+empId+" Name: "+empName);
+   	}  
 	   
-   public static void main(String args[]){  
+   	public static void main(String args[]){  
 	Employee obj1 = new Employee(15,"sumit");  
 	Employee obj2 = new Employee(32,"rajan");  
 	obj1.info();  
 	obj2.info();  
-   }  
-}
+	   }  
+	}
