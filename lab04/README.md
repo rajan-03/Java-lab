@@ -48,7 +48,8 @@ The "throws" keyword is used to declare exceptions. It doesn't throw an exceptio
 in the method. It is always used with method 
 signature.
  
- 
+                          
+ #  PACKAGE
  Packages are used in Java in order to prevent naming conflicts, to control access, to make searching/locating and usage of classes, interfaces, enumerations and annotations easier, etc.
 
 A Package can be defined as a grouping of related types (classes, interfaces, enumerations and annotations ) providing access
