@@ -57,9 +57,9 @@ protection and namespace management.
 
 Some of the existing packages in Java are −
 
-java.lang − bundles the fundamental classes
+**java.lang − bundles the fundamental classes
 
-java.io − classes for input , output functions are bundled in this package
+**java.io − classes for input , output functions are bundled in this package
 
 Programmers can define their own packages to bundle group of classes/interfaces, etc. It is a good practice to group related classes implemented by you so that a programmer can easily determine that the classes, interfaces, enumerations, and annotations are related.
 
