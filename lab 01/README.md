@@ -29,5 +29,5 @@ Moreover, Java provides the feature of anonymous arrays which is not available i
 
 There are two types of array.
 
- Single Dimensional Array
- Multidimensional Array
+ + Single Dimensional Array
+ + Multidimensional Array
