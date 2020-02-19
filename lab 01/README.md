@@ -27,7 +27,7 @@ Unlike C/C++, we can get the length of the array using the length member. In C/C
 
 Moreover, Java provides the feature of anonymous arrays which is not available in C/C
 
-# There are two types of array.
+There are two types of array.
 
-# Single Dimensional Array
-# Multidimensional Array
+ Single Dimensional Array
+ Multidimensional Array
