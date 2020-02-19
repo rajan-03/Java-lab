@@ -13,8 +13,6 @@ public class ExcepTest {
    }
 }
 
-
-#output
-
+##output
  Exception thrown  :java.lang.ArrayIndexOutOfBoundsException: 3
  Out of the block
