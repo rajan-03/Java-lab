@@ -1,8 +1,8 @@
   
-  LAB-1: DATA TYPE AND ARRAY IN JAVA
+  # LAB-1: DATA TYPE AND ARRAY IN JAVA
  
  
-   Data Types in Java          
+  # Data Types in Java          
 
 Data types specify the different sizes and values that can be stored in the variable. There are two types of data types in Java:
 
@@ -10,7 +10,7 @@ Primitive data types: The primitive data types include boolean, char, byte, shor
 Non-primitive data types: The non-primitive data types include Classes, Interfaces, and Arrays.
 
 
-     Java Arrays
+   #  Java Arrays
  An array is a collection of similar type of elements which have a contiguous memory location.
 
 Java array is an object which contains elements of a similar data type. Additionally, The elements of an array are stored in a contiguous 
@@ -27,7 +27,7 @@ Unlike C/C++, we can get the length of the array using the length member. In C/C
 
 Moreover, Java provides the feature of anonymous arrays which is not available in C/C
 
- There are two types of array.
+# There are two types of array.
 
-Single Dimensional Array
-Multidimensional Array
+# Single Dimensional Array
+# Multidimensional Array
