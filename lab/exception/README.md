@@ -29,8 +29,7 @@ There are 5 keywords used for handling exceptions:
  ==
  
 
- + try
-  
+ + try  
 The try keyword is used to specify a block where we should place exception code. The try block must be followed by either catch or
 finally.
 
