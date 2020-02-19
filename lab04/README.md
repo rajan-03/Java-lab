@@ -29,22 +29,22 @@ There are 5 keywords used for handling exceptions:
  ==
  
 
- -First item try
+ +try
   
 The try keyword is used to specify a block where we should place exception code. The try block must be followed by either catch or
 finally.
 
--second item catch
-The "catch" block is used to handle the exception. It must be preceded by try block which means we can't use catch block alone. 
+ +catch
+ The "catch" block is used to handle the exception. It must be preceded by try block which means we can't use catch block alone. 
 It can be followed by finally block later.
 
--third item throw
++throw
 The "throw" keyword is used to throw an exception.
 
--fourth item finally
+ +finally
 Java finally block is always executed whether exception is handled or not.
 
--fifth item throws
+ +throws
 The "throws" keyword is used to declare exceptions. It doesn't throw an exception. It specifies that there may occur an exception
 in the method. It is always used with method 
 signature.
