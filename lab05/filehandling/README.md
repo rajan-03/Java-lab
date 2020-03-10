@@ -4,7 +4,7 @@ File handling in Java implies reading from and writing data to a file. The File 
 to work with different formats of files. In order to use the File class, we need to create an object of the class and specify 
 the filename or directory name.
 
-  +**FileWriter Class**
+  + **FileWriter Class**
 
 It is used to write character-oriented data to a file.
 Some of the methods are :
@@ -15,7 +15,7 @@ Some of the methods are :
    flush()	It is used to flushes the data of FileWriter
   close()	It is used to close the FileWriter
   
-+**FileReader Class**
++ **FileReader Class**
 
  It is used to read data from the file.
  Some of the methods are :-
@@ -23,7 +23,7 @@ Some of the methods are :
  int read()	It is used to return a character in ASCII form. It returns -1 at the end of file.
  close()	It is used to close the FileReader 
  
-+**BufferedWriter Class**
++ **BufferedWriter Class**
 
   It is used to provide buffering for Writer instances.
  Some of the methods are :-
@@ -34,7 +34,7 @@ Some of the methods are :
  flush()	It is used to flushes the input stream
  close()	It is used to close the input stream
  
- +**BufferedReader Class**
+ + **BufferedReader Class**
 
 It is used to read the text from a character-based input stream.
 Some of the methods are :-
