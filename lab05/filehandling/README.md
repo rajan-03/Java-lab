@@ -21,10 +21,9 @@ Some of the methods are :
  Some of the methods are :-
  Methods	Description
  int read()	It is used to return a character in ASCII form. It returns -1 at the end of file.
- close()	It is used to close the FileReader
+ close()	It is used to close the FileReader 
  
- 
-** BufferedWriter Class**
+**BufferedWriter Class**
 
   It is used to provide buffering for Writer instances.
  Some of the methods are :-
