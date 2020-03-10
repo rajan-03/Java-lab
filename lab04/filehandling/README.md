@@ -34,6 +34,7 @@ FileReader Class
  write(int c)	It is used to write a single character
  flush()	It is used to flushes the input stream
  close()	It is used to close the input stream
+ 
  BufferedReader Class
 
 It is used to read the text from a character-based input stream.
