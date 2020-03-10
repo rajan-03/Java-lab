@@ -70,8 +70,3 @@ void reset()	It repositions the stream at a position the mark method was last ca
 
 close()	It closes the input stream and releases any of the system resources associated with the stream.
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
