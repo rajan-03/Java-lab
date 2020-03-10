@@ -9,8 +9,8 @@ class mergeLineByLine
 			{
 				PrintWriter pw = new PrintWriter("three.txt");
 
-				BufferedReader br1 = new BufferedReader(new FileReader("one.txt"));
-				BufferedReader br2 = new BufferedReader(new FileReader("two.txt"));
+				BufferedReader br1 = new BufferedReader(new FileReader("firstone.txt"));
+				BufferedReader br2 = new BufferedReader(new FileReader("secondone.txt"));
 
 				String line1 = br1.readLine();
 				String line2 = br2.readLine();
