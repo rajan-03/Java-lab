@@ -23,6 +23,7 @@ Some of the methods are :
 + **FileReader Class**
 
  It is used to read data from the file.
+ 
  Some of the methods are :-
  
  Methods	Description
@@ -34,6 +35,7 @@ Some of the methods are :
 + **BufferedWriter Class**
 
   It is used to provide buffering for Writer instances.
+  
  Some of the methods are :-
  
  Methods	Description
