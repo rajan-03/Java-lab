@@ -22,9 +22,9 @@ The declaration of the components are same as in AWT with a J infront of every c
 
 It needs JavaX.swing; package to run.
 
-Layout used
++ Layout used
 
-Grid Layout
++ Grid Layout
 
 It is used to arrange the components in rectangular grid.
 
@@ -43,7 +43,7 @@ Component.
 
 A Component object is responsible for remembering the current foreground and background colors and the currently selected text font.
 
-Labels
+**Labels**
 
 Labels are passive controls that do not support any interaction with the user i.e. no event handling.
 
@@ -62,17 +62,17 @@ The most widely used control is the push button. A push button is a Component th
 
 **Constructors**
 
-+ public Button()
+ public Button()
 
 public Button(String buttonLabel) throws headless Exception;
 
-+TextField
++ TextField
 
 The TextField class implements a single line text entry area ususally called an edit control.
 
 TextField allow the user to enter strings and to edit the text using the arrow keys, cut and paste keys and mouse selection.
 
-Constructors
+**Constructors**
 
 public TextField(String initialText, int columns)
 
@@ -86,12 +86,12 @@ public TextField(int columns);
 
 Construct s TextField instance with number of columns
 
-TextArea
++ TextArea
 
 Sub class of TextComponent
 
 Sometimes a single line of text input is not enough for a given task. To handle this situation, the awt includes a simple multiline editor called TextArea.
-Constructors
+**Constructors**
 
 TextArea() throws 
 
@@ -105,7 +105,7 @@ TextArea(String str, int numLines,int numChars, int sBars) throws HeadlessExcept
 
 Here, numLines represents rows and numChars represents number of columns. sBars is Scroll Bar to use scrollbar in the TextArea.
 
-Checkbox
++ Checkbox
 A Checkbox is a control that is used to turn an option on or off.
 
 It consists of a small box tha can either contain a checkmark or not.
@@ -114,7 +114,7 @@ There is a Label associated with each check box that describes what option the b
 
 Can change the state of a Checkbox by clicking on it.
 
-Constructors:
+**Constructors:**
 
 Checkbox() throws HeadlessException
 
@@ -126,12 +126,13 @@ Checkbox(String str, boolean on, CheckboxGroup cbGroup) throws HeadlessException
 
 Checkbox(String str, CheckboxGroup cbGroup, boolean on) throws HeadlessException
 
-CheckboxGroup
++ CheckboxGroup
 It is possible to create a set if mutually exclusive check boxes in which one and only one checkbox in the group can be checked at any one time.
 
 Also known as radio button.
 
-Constructors CheckboxGroup();
+**Constructors**
+CheckboxGroup();
 
 Choice
 
@@ -141,13 +142,14 @@ The Choice class is used to create a pop-up list of items from which user may ch
 
 Only one item can be chosen.
 
-Constructors: Choice();
+**Constructors:**
+Choice();
 
-List
++ List
 
 The List class provides a compact, multiple-choice scrolling selection list.
 
-Constructors
+**Constructors**
 
 List() throws HeadlessException
 
