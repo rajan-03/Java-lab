@@ -60,13 +60,13 @@ Button
 
 The most widely used control is the push button. A push button is a Component that contains a label and that generates an event when it is pressed. Push buttons are objects of type button. Button defines these two constructors:
 
-Constructors
+**Constructors**
 
-public Button()
++ public Button()
 
 public Button(String buttonLabel) throws headless Exception;
 
-TextField
++TextField
 
 The TextField class implements a single line text entry area ususally called an edit control.
 
